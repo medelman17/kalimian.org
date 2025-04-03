@@ -1,0 +1,1037 @@
+[
+  {
+    "movement": "I",
+    "movementTitle": "The Beginning - False Promises & Realization",
+    "title": "Another Brick In the Wall, Pt. 1",
+    "artist": "Pink Floyd",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1065975636",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBN9Y1100097",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Pink%20Floyd%20Another%20Brick%20In%20the%20Wall%2C%20Pt.%201%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "I",
+    "movementTitle": "The Beginning - False Promises & Realization",
+    "title": "House of Cards",
+    "artist": "Radiohead",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1109715467",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBSTK0700008",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Radiohead%20House%20of%20Cards%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "I",
+    "movementTitle": "The Beginning - False Promises & Realization",
+    "title": "Trouble",
+    "artist": "Coldplay",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1122782284",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBAYE1600171",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Coldplay%20Trouble%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "I",
+    "movementTitle": "The Beginning - False Promises & Realization",
+    "title": "Undisclosed Desires",
+    "artist": "Muse",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id991509846",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBAHT1500310",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Muse%20Undisclosed%20Desires%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "II",
+    "movementTitle": "The Conflict Builds - Neglect & Resistance",
+    "title": "Waiting On the World to Change",
+    "artist": "John Mayer",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id184335560",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USSM10602589",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=John%20Mayer%20Waiting%20On%20the%20World%20to%20Change%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "II",
+    "movementTitle": "The Conflict Builds - Neglect & Resistance",
+    "title": "bad guy",
+    "artist": "Billie Eilish",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1450695739",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USUM71900764",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Billie%20Eilish%20bad%20guy%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "II",
+    "movementTitle": "The Conflict Builds - Neglect & Resistance",
+    "title": "Under Pressure",
+    "artist": "Queen & David Bowie",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1440651291",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBUM71404523",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Queen%20%26%20David%20Bowie%20Under%20Pressure%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "II",
+    "movementTitle": "The Conflict Builds - Neglect & Resistance",
+    "title": "Uprising",
+    "artist": "Muse",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id991509754",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBAHT1500308",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Muse%20Uprising%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "III",
+    "movementTitle": "Taking Action - Research & Documentation",
+    "title": "I Fought the Law",
+    "artist": "The Clash",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id647246433",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBARL1201017",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=The%20Clash%20I%20Fought%20the%20Law%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "III",
+    "movementTitle": "Taking Action - Research & Documentation",
+    "title": "Lawyers, Guns and Money",
+    "artist": "Warren Zevon",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id296202523",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USEE19901106",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Warren%20Zevon%20Lawyers%2C%20Guns%20and%20Money%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "III",
+    "movementTitle": "Taking Action - Research & Documentation",
+    "title": "Paper Planes",
+    "artist": "M.I.A.",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id296393515",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBBKS0700215",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=M.I.A.%20Paper%20Planes%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "III",
+    "movementTitle": "Taking Action - Research & Documentation",
+    "title": "The Pretender",
+    "artist": "Foo Fighters",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id262743414",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USRW30700007",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Foo%20Fighters%20The%20Pretender%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "IV",
+    "movementTitle": "Strategic Preparation - Building Leverage",
+    "title": "Know Your Enemy",
+    "artist": "Rage Against The Machine",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id191451133",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USSM19200664",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Rage%20Against%20The%20Machine%20Know%20Your%20Enemy%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "IV",
+    "movementTitle": "Strategic Preparation - Building Leverage",
+    "title": "This Ain't a Scene, It's an Arms Race",
+    "artist": "Fall Out Boy",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1445734014",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USUM70619006",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Fall%20Out%20Boy%20This%20Ain't%20a%20Scene%2C%20It's%20an%20Arms%20Race%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "IV",
+    "movementTitle": "Strategic Preparation - Building Leverage",
+    "title": "Tick Tick Boom",
+    "artist": "The Hives",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1443094618",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBUM70708690",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=The%20Hives%20Tick%20Tick%20Boom%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "IV",
+    "movementTitle": "Strategic Preparation - Building Leverage",
+    "title": "Eye of the Tiger",
+    "artist": "Survivor",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id254685026",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USVR19300001",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Survivor%20Eye%20of%20the%20Tiger%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "V",
+    "movementTitle": "The Confrontation - Settlement Demand",
+    "title": "I Want It All",
+    "artist": "Queen",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1440651302",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBUM71029624",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Queen%20I%20Want%20It%20All%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "V",
+    "movementTitle": "The Confrontation - Settlement Demand",
+    "title": "Show Me the Money",
+    "artist": "Petey Pablo",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id183507255",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USJI10600294",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Petey%20Pablo%20Show%20Me%20the%20Money%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "V",
+    "movementTitle": "The Confrontation - Settlement Demand",
+    "title": "That Someday",
+    "artist": "Trace Adkins",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1800894384",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/QZGLS2531746",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Trace%20Adkins%20That%20Someday%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "V",
+    "movementTitle": "The Confrontation - Settlement Demand",
+    "title": "The Sound of Silence",
+    "artist": "Disturbed",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1006937459",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USRE11500200",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Disturbed%20The%20Sound%20of%20Silence%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VI",
+    "movementTitle": "The Breaking Point - Filing Suit",
+    "title": "Bodies",
+    "artist": "Drowning Pool",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1440777727",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USWU30006502",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Drowning%20Pool%20Bodies%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VI",
+    "movementTitle": "The Breaking Point - Filing Suit",
+    "title": "Sue Me",
+    "artist": "Sabrina Carpenter",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1438671365",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USHR11838862",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Sabrina%20Carpenter%20Sue%20Me%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VI",
+    "movementTitle": "The Breaking Point - Filing Suit",
+    "title": "Witness",
+    "artist": "Sarah McLachlan",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id388154319",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USAR19700538",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Sarah%20McLachlan%20Witness%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VI",
+    "movementTitle": "The Breaking Point - Filing Suit",
+    "title": "Patience",
+    "artist": "Guns N' Roses",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1440905397",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USGF18819805",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Guns%20N'%20Roses%20Patience%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VII",
+    "movementTitle": "Discovery & Depositions - Truth Exposed",
+    "title": "Dig",
+    "artist": "Incubus",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id204285081",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USSM10604651",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Incubus%20Dig%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VII",
+    "movementTitle": "Discovery & Depositions - Truth Exposed",
+    "title": "Everybody Talks",
+    "artist": "Neon Trees",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1443469581",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USUM71119189",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Neon%20Trees%20Everybody%20Talks%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VII",
+    "movementTitle": "Discovery & Depositions - Truth Exposed",
+    "title": "Paper Planes",
+    "artist": "M.I.A.",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id296393515",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBBKS0700215",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=M.I.A.%20Paper%20Planes%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VII",
+    "movementTitle": "Discovery & Depositions - Truth Exposed",
+    "title": "The Truth",
+    "artist": "Limp Bizkit",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1449912853",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USIR10500618",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Limp%20Bizkit%20The%20Truth%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VIII",
+    "movementTitle": "Motion Practice - Legal Chess",
+    "title": "The Game",
+    "artist": "Disturbed",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1030601025",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USRE11500331",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Disturbed%20The%20Game%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VIII",
+    "movementTitle": "Motion Practice - Legal Chess",
+    "title": "Objection (Tango)",
+    "artist": "Shakira",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id188260859",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/NLB630100360",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Shakira%20Objection%20(Tango)%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VIII",
+    "movementTitle": "Motion Practice - Legal Chess",
+    "title": "Brave",
+    "artist": "Sara Bareilles",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1440504730",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USSM11301638",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Sara%20Bareilles%20Brave%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "VIII",
+    "movementTitle": "Motion Practice - Legal Chess",
+    "title": "Stronger",
+    "artist": "Kelly Clarkson",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id464446141",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBCTA1100364",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Kelly%20Clarkson%20Stronger%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "IX",
+    "movementTitle": "Expert Witnesses & Trial Prep",
+    "title": "Science Genius Girl",
+    "artist": "Freezepop",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id44080905",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USHM90483725",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Freezepop%20Science%20Genius%20Girl%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "IX",
+    "movementTitle": "Expert Witnesses & Trial Prep",
+    "title": "Becoming the Bull",
+    "artist": "Atreyu",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1440768147",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USHR10723245",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Atreyu%20Becoming%20the%20Bull%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "IX",
+    "movementTitle": "Expert Witnesses & Trial Prep",
+    "title": "Scream Aim Fire",
+    "artist": "Bullet for My Valentine",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id272199020",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBHQD0700046",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Bullet%20for%20My%20Valentine%20Scream%20Aim%20Fire%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "IX",
+    "movementTitle": "Expert Witnesses & Trial Prep",
+    "title": "Harder, Better, Faster, Stronger",
+    "artist": "Daft Punk",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id697195787",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBDUW0000059",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Daft%20Punk%20Harder%2C%20Better%2C%20Faster%2C%20Stronger%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "X",
+    "movementTitle": "Trial & Verdict - Justice Served",
+    "title": "The Trial",
+    "artist": "Pink Floyd",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id339006457",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/SEWDL9750008",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Pink%20Floyd%20The%20Trial%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "X",
+    "movementTitle": "Trial & Verdict - Justice Served",
+    "title": "Judgment Day",
+    "artist": "Five Finger Death Punch",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1619239937",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USDPK2200070",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Five%20Finger%20Death%20Punch%20Judgment%20Day%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "X",
+    "movementTitle": "Trial & Verdict - Justice Served",
+    "title": "Victory",
+    "artist": "Two Steps From Hell",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1781233013",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/US3DF1505725",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Two%20Steps%20From%20Hell%20Victory%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "X",
+    "movementTitle": "Trial & Verdict - Justice Served",
+    "title": "All I Do Is Win",
+    "artist": "DJ Khaled",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id353859788",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USKO11000176",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=DJ%20Khaled%20All%20I%20Do%20Is%20Win%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "Epilogue",
+    "movementTitle": "Aftermath & Legacy",
+    "title": "Writing's On the Wall",
+    "artist": "Sam Smith",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1445028072",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBUM71505354",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Sam%20Smith%20Writing's%20On%20the%20Wall%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "Epilogue",
+    "movementTitle": "Aftermath & Legacy",
+    "title": "The Change",
+    "artist": "Evanescence",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1440642292",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USWU31100062",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Evanescence%20The%20Change%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "Epilogue",
+    "movementTitle": "Aftermath & Legacy",
+    "title": "Brave New World",
+    "artist": "Iron Maiden",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1440504730",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USSM11301638",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Iron%20Maiden%20Brave%20New%20World%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "Epilogue",
+    "movementTitle": "Aftermath & Legacy",
+    "title": "We Are the Champions",
+    "artist": "Queen",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id1440651281",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/GBUM71029619",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=Queen%20We%20Are%20the%20Champions%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  },
+  {
+    "movement": "Post Script",
+    "movementTitle": "The Final Feedback Squall",
+    "title": "F**k You",
+    "artist": "CeeLo Green",
+    "links": [
+      {
+        "platform": "appleMusic",
+        "url": "https://music.apple.com/us/album/id390849615",
+        "isOfficial": true
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/search/USAT21001768",
+        "isOfficial": false
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/results?search_query=CeeLo%20Green%20F**k%20You%20official%20audio",
+        "isOfficial": false
+      }
+    ]
+  }
+]
