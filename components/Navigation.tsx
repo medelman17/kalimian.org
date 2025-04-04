@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { ExternalLink, Music, Maximize2, Minimize2 } from "lucide-react";
+import { Music, Maximize2, Minimize2 } from "lucide-react";
 import { useState } from "react";
 
 export function Navigation() {
