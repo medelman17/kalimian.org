@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function AlbumShowcase() {
   return (
-    <section className="py-16 bg-background">
+    <section id="showcase" className="py-16 bg-background">
       <div className="container px-4 mx-auto">
         <div className="flex flex-col xl:flex-row gap-8 items-start">
           {/* Album Artwork */}

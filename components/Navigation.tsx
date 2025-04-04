@@ -23,13 +23,13 @@ export function Navigation() {
           <div className="flex items-center">
             <div className="hidden md:flex items-center space-x-4 mr-6">
               <Button variant="ghost" size="sm" asChild>
-                <Link href="#concept">The Concept</Link>
+                <Link href="#showcase">The Concept</Link>
               </Button>
               <Button variant="ghost" size="sm" asChild>
                 <Link href="#movements">Movements</Link>
               </Button>
               <Button variant="ghost" size="sm" asChild>
-                <Link href="#listen">Listen</Link>
+                <Link href="#apple-music">Listen</Link>
               </Button>
             </div>
 

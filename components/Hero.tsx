@@ -30,14 +30,16 @@ export function Hero() {
             and Resolution at 10 Ocean Blvd
           </span>
           --Kalimian and the Inequities debut and immediate swan song, dissolved
-          mid-tour under Chapter 11 after blundering away the family
-          fortune--charts the descent from hopeful beginnings to systemic
-          neglect, the ignition of resistance, and the strategic grind of legal
-          warfare. The stakes are real. The tracks are curated. The arc is
-          undeniable.
+          mid-tour under Chapter 11--charts the descent from hopeful beginnings
+          to systemic neglect, the ignition of resistance, and the strategic
+          grind of legal warfare. The stakes are real. The tracks are curated.
+          The arc is undeniable.
         </p>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+        <div
+          id="apple-music"
+          className="flex flex-col sm:flex-row gap-4 justify-center"
+        >
           <Button variant="default" className="px-6 py-2" asChild>
             <Link
               href="https://music.apple.com/us/playlist/when-david-takes-on-goliath-an-emotional-journey/pl.u-3EDbUP4Ayrl"

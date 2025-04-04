@@ -12,7 +12,7 @@ import Link from "next/link";
 
 export function AlbumInfo() {
   return (
-    <section className="py-16 bg-primary/5">
+    <section id="movements" className="py-16 bg-primary/5">
       <div className="container px-4 mx-auto">
         <h2 className="text-3xl font-bold mb-8 text-center">Movements</h2>
         <div className="space-y-8">

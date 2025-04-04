@@ -27,7 +27,7 @@ export function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link
-                  href="#concept"
+                  href="#showcase"
                   className="text-sm text-foreground/70 hover:text-foreground transition-colors"
                 >
                   The Concept
@@ -43,7 +43,7 @@ export function Footer() {
               </li>
               <li>
                 <Link
-                  href="#listen"
+                  href="#apple-music"
                   className="text-sm text-foreground/70 hover:text-foreground transition-colors"
                 >
                   Listen
