@@ -30,7 +30,7 @@ export function Hero() {
             and Resolution at 10 Ocean Blvd
           </span>
           --Kalimian and the Inequities debut and immediate swan song, dissolved
-          mid-tour under Chapter 11 after blundering away their family
+          mid-tour under Chapter 11 after blundering away the family
           fortune--charts the descent from hopeful beginnings to systemic
           neglect, the ignition of resistance, and the strategic grind of legal
           warfare. The stakes are real. The tracks are curated. The arc is
