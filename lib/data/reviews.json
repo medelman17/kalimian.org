@@ -1,0 +1,52 @@
+[
+  {
+    "theme": "Power Isn’t Always Where You Expect It",
+    "actReferences": ["Act I"],
+    "reviewer": {
+      "name": "Eli Feinberg",
+      "affiliation": "Rent Rock Monthly",
+      "type": "Critic"
+    },
+    "review": "Act I cracked me open like a drafty window in February. ‘Trouble’ isn’t just a Coldplay track—it’s the sound of a thousand leases silently screaming. Never thought Muse’s ‘Undisclosed Desires’ could be a portrait of passive-aggressive landlord neglect, but here we are. This isn't just music. It's a toolkit."
+  },
+  {
+    "theme": "Arrogance Invites a Reckoning",
+    "actReferences": ["Act II"],
+    "reviewer": {
+      "name": "Definitely Not Morad K.",
+      "affiliation": "Yelp",
+      "type": "Landlord"
+    },
+    "review": "Look, I was just vibing to Queen and suddenly I’m under audit? Act II felt like a personal attack. ‘bad guy’ turned my own lease clauses against me. Honestly, I didn’t sign up for character assassination via Billie Eilish."
+  },
+  {
+    "theme": "Old Playbooks Don’t Work Forever",
+    "actReferences": ["Act III", "Act IV"],
+    "reviewer": {
+      "name": "Pitchfork Staff",
+      "affiliation": "Pitchfork",
+      "type": "Critic"
+    },
+    "review": "Acts III and IV are where this album earns its concept stripes. The remix of ‘Paper Planes’ in both the documentation phase and discovery feels like a cross between a legal thriller and an underground resistance anthem. If you thought ‘Eye of the Tiger’ was just gym music, you’ve never seen it scored to a certified mail receipt."
+  },
+  {
+    "theme": "One Stone Doesn’t Work Alone",
+    "actReferences": ["Act IV", "Act V", "Act VI", "Act VII", "Act VIII"],
+    "reviewer": {
+      "name": "Maya",
+      "affiliation": "Tenant Organizer (Bandcamp Comment)",
+      "type": "Tenant Advocate"
+    },
+    "review": "‘Organize the Hallways’ may not be on the tracklist, but it lives between every note of Acts IV–VIII. From Rage to Shakira, this album is a blueprint. The interweaving of collective strategy and procedural precision? Unmatched. We used these songs to prep for our board hearing."
+  },
+  {
+    "theme": "Every Goliath Makes a David",
+    "actReferences": ["Act X", "Epilogue", "Post Script"],
+    "reviewer": {
+      "name": "Law & Disorder Podcast",
+      "affiliation": "Law & Disorder: The Legal Music Podcast",
+      "type": "Podcast Host"
+    },
+    "review": "Act X doesn’t just resolve a legal arc—it detonates one. ‘The Trial’ followed by ‘Judgment Day’ is like a two-punch combo of justice. But the real revelation is in the epilogue. ‘We Are the Champions’ into ‘F--- You’ is tonal whiplash of the most cathartic kind. It’s like ‘The Wall’ had a baby with A Civil Action. Beautiful, furious, earned."
+  }
+]

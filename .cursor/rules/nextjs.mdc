@@ -1,0 +1,71 @@
+---
+description: Next.js 15 Project Guidelines and Standards
+globs: "**/*.{ts,tsx,js,jsx}"
+alwaysApply: true
+---
+
+# Next.js 15 Project Guidelines
+
+## Tech Stack
+- Next.js 15+ with App Router
+- React 19
+- TypeScript
+- Tailwind CSS 4
+- ShadCN/UI components
+- pnpm for package management
+
+## Component Organization
+- Use Server Components by default (RSC)
+- Create Client Components only when necessary (interactivity, hooks, browser APIs)
+- Add `"use client"` directive at the top of client component files
+- Place reusable components in `app/components/`
+- Place page-specific components in their respective route directories
+- Group related components in subdirectories by feature
+
+## Naming Conventions
+- Components: PascalCase (e.g., `TodoList.tsx`)
+- Files: kebab-case for pages, routes (e.g., `user-profile.tsx`)
+- Functions: camelCase (e.g., `getUserData()`)
+- Server Actions: prefix with action (e.g., `async function actionCreateUser()`)
+- Types/Interfaces: PascalCase with appropriate suffix (e.g., `UserProps`, `TodoItem`)
+
+## State Management
+- Use React's built-in hooks for local state
+- Use React Context for shared state when appropriate
+- For complex state, consider Zustand or Jotai
+- Prefer server-side state management when possible
+- Use React Query for server state and data fetching
+
+## Tailwind Styling Practices
+- Use Tailwind utility classes directly in components
+- Create consistent design tokens in `tailwind.config.ts`
+- Utilize ShadCN/UI components first before custom styling
+- Use CSS variables for theming and dark mode support
+- Group related utility classes for readability
+
+## Server/Client Component Boundaries
+- Keep data fetching in Server Components
+- Move interactive UI elements to Client Components
+- Use the "islands architecture" approach
+- Pass server data as props to Client Components
+- Use `useTransition` for optimistic UI updates
+
+## Error Handling
+- Implement error boundaries for client-side errors
+- Use try/catch in server actions and data fetching
+- Create error.tsx files for route error handling
+- Log errors appropriately for debugging
+- Provide user-friendly error messages
+
+## Performance
+- Implement proper component memoization (useMemo, memo)
+- Optimize images with Next.js Image component
+- Use dynamic imports for code splitting
+- Implement proper caching strategies
+- Monitor and optimize Core Web Vitals
+
+## Remember
+- The `params` in NextJS route handlers are promises and must be awaited
+- The build will fail if linter errors are not fixed
+- Only fetch data in Server Components or server actions
+- Always prefer Server Components unless client-side interactivity is needed

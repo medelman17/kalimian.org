@@ -5,8 +5,8 @@ import { unified } from "unified";
 import rehypeParse from "rehype-parse";
 import rehypeRemark from "rehype-remark";
 import remarkStringify from "remark-stringify";
-import { albumData } from "../lib/data";
-import type { Movement, Track } from "../lib/data";
+import { movements } from "../lib/data";
+import type { Movement, Track } from "../lib/types";
 
 // Path to data file
 const DATA_FILE_PATH = path.join(process.cwd(), "lib", "data.ts");
@@ -89,7 +89,7 @@ async function processData() {
 	console.log("Starting HTML to Markdown conversion...");
 
 	// Create a deep copy of the album data
-	const updatedAlbumData = JSON.parse(JSON.stringify(albumData));
+	const updatedAlbumData = JSON.parse(JSON.stringify(movements));
 
 	// Process each movement
 	for (let i = 0; i < updatedAlbumData.length; i++) {
@@ -109,8 +109,8 @@ async function processData() {
 
 	// Replace the albumData in the file with the updated version
 	const updatedContent = fileContent.replace(
-		/export const albumData: Movement\[\] = \[([\s\S]+?)\];/,
-		`export const albumData: Movement[] = ${JSON.stringify(updatedAlbumData, null, 2)};`,
+		/export const movements: Movement\[\] = \[([\s\S]+?)\];/,
+		`export const movements: Movement[] = ${JSON.stringify(updatedAlbumData, null, 2)};`,
 	);
 
 	// Write the updated content back to the file

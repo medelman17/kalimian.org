@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 import fs from "node:fs";
 import path from "node:path";
-import { albumData, generateStreamingLinks } from "../lib/data";
-import type { StreamingLink } from "../lib/data";
+import { movements } from "../lib/data";
+import type { StreamingLink } from "../lib/types";
 import { exec } from "node:child_process";
 import readline from "node:readline";
+import { generateStreamingLinks } from "../lib/utils";
 
 // Directory for storing results
 const OUTPUT_DIR = path.join(process.cwd(), "scripts", "output");
@@ -24,7 +25,7 @@ interface TrackWithLinks {
 // Extract all tracks from album data with empty streaming links
 const allTracks: TrackWithLinks[] = [];
 
-for (const movement of albumData) {
+for (const movement of movements) {
 	for (const track of movement.tracks) {
 		allTracks.push({
 			movement: movement.number,
@@ -200,7 +201,7 @@ function generateOutputFile() {
 	const outputTsPath = path.join(OUTPUT_DIR, "updated-album-data.ts");
 
 	// Create a deep copy of the album data
-	const updatedAlbumData = JSON.parse(JSON.stringify(albumData));
+	const updatedAlbumData = JSON.parse(JSON.stringify(movements));
 
 	// Update tracks with collected links
 	for (const movement of updatedAlbumData) {

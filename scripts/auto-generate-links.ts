@@ -2,8 +2,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import { parse } from "csv-parse/sync";
-import { albumData } from "../lib/data";
-import type { StreamingLink } from "../lib/data";
+import { movements } from "../lib/data";
+import type { StreamingLink } from "../lib/types";
 
 // Directory for storing results
 const OUTPUT_DIR = path.join(process.cwd(), "scripts", "output");
@@ -60,7 +60,7 @@ console.log(`Loaded ${trackData.length} tracks from CSV file.`);
 // Extract all tracks from album data
 const allTracks: TrackWithLinks[] = [];
 
-for (const movement of albumData) {
+for (const movement of movements) {
 	for (const track of movement.tracks) {
 		allTracks.push({
 			movement: movement.number,
@@ -251,7 +251,7 @@ function generateOutputFile() {
 	const outputTsPath = path.join(OUTPUT_DIR, "updated-album-data.ts");
 
 	// Create a deep copy of the album data
-	const updatedAlbumData = JSON.parse(JSON.stringify(albumData));
+	const updatedAlbumData = JSON.parse(JSON.stringify(movements));
 
 	// Update tracks with collected links
 	for (const movement of updatedAlbumData) {

@@ -1,0 +1,7 @@
+We are using Next.js 15+, which means server components (RSC) and server actions.
+
+Always refer to the rules in `./.cursor/rules`
+
+Always remember that the `params` in our NextJS route handlers are promises and must be awaited.
+
+The build will fail if linter errors are not fixed.
